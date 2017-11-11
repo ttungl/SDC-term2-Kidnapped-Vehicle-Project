@@ -1,3 +1,19 @@
+### SDC-term2
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+    
+    Tung Thanh Le
+    ttungl at gmail dot com
+   
+**Kidnapped Vehicle Project**
+---
+
+<img src="https://github.com/ttungl/SDC-term2-Kidnapped-Vehicle-Project/blob/master/outputs/screencast.gif" height="303" width="550">
+
+The result meets the requirements as below: 
+
+<img width="550" src="https://github.com/ttungl/SDC-term2-Kidnapped-Vehicle-Project/blob/master/outputs/output.png">
+
+
 # Overview
 This repository contains all the code needed to complete the final project for the Localization course in Udacity's Self-Driving Car Nanodegree.
 
