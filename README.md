@@ -9,7 +9,7 @@
 
 <img src="https://github.com/ttungl/SDC-term2-Kidnapped-Vehicle-Project/blob/master/outputs/screencast.gif" height="303" width="550">
 
-The result meets the requirements as below: 
+The result meets the project's [specification](https://review.udacity.com/#!/rubrics/747/view) as below: 
 
 <img width="550" src="https://github.com/ttungl/SDC-term2-Kidnapped-Vehicle-Project/blob/master/outputs/output.png">
 
